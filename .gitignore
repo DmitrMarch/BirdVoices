@@ -1,3 +1,5 @@
 /.idea
 /.venv
-/list_of_birds
+/bird_voices/
+/bird_voices_mod/
+/mel_data/
